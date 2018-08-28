@@ -2,5 +2,5 @@
 ### Gradle
 
 ```
-implementation "com.sqq.xiaqu:qpermisstion:1.0.0"
+implementation "com.sqq.xiaqu:qpermission:1.0.0"
 ```
